@@ -29,7 +29,7 @@ healthcare_symptoms_chatbot/
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/<your-username>/healthcare_symptoms_chatbot.git
+git clone https://github.com/<its-nayana>/healthcare_symptoms_chatbot.git
 cd healthcare_symptoms_chatbot
 ```
 
